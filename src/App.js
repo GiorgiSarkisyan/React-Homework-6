@@ -1,7 +1,7 @@
 
-import AboutMe from "./components/aboutMe"; 
-import MainContent from "./components/mainContent";
-import GlobalFooter from "./components/globalFooter";
+import AboutMe from "./components/pageContent/aboutMe"; 
+import MainContent from "./components/pageContent/mainContent";
+import GlobalFooter from "./components/globalElements/globalFooter";
 
 function App() {
   return (
